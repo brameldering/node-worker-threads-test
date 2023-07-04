@@ -1,5 +1,5 @@
 # node-worker-threads-test
-** Comparing standard async promises with worker threads**
+Comparing standard async promises with worker threads
 ----
 * Code from YouTube video https://www.youtube.com/watch?v=_Im4_3Z1NxQ
 * Title: Node.js is a serious thing now… (2023) 
